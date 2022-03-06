@@ -1,0 +1,11 @@
+D:\OLO\OLO_DISCOSSION\OLO.ViewModels\bin\Debug\net5.0\OLO.ViewModels.deps.json
+D:\OLO\OLO_DISCOSSION\OLO.ViewModels\bin\Debug\net5.0\OLO.ViewModels.dll
+D:\OLO\OLO_DISCOSSION\OLO.ViewModels\bin\Debug\net5.0\ref\OLO.ViewModels.dll
+D:\OLO\OLO_DISCOSSION\OLO.ViewModels\bin\Debug\net5.0\OLO.ViewModels.pdb
+D:\OLO\OLO_DISCOSSION\OLO.ViewModels\obj\Debug\net5.0\OLO.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\OLO\OLO_DISCOSSION\OLO.ViewModels\obj\Debug\net5.0\OLO.ViewModels.AssemblyInfoInputs.cache
+D:\OLO\OLO_DISCOSSION\OLO.ViewModels\obj\Debug\net5.0\OLO.ViewModels.AssemblyInfo.cs
+D:\OLO\OLO_DISCOSSION\OLO.ViewModels\obj\Debug\net5.0\OLO.ViewModels.csproj.CoreCompileInputs.cache
+D:\OLO\OLO_DISCOSSION\OLO.ViewModels\obj\Debug\net5.0\OLO.ViewModels.dll
+D:\OLO\OLO_DISCOSSION\OLO.ViewModels\obj\Debug\net5.0\ref\OLO.ViewModels.dll
+D:\OLO\OLO_DISCOSSION\OLO.ViewModels\obj\Debug\net5.0\OLO.ViewModels.pdb

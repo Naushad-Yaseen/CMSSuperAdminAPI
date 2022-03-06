@@ -1,0 +1,15 @@
+D:\OLO\OLO_DISCOSSION\Entities\bin\Debug\net5.0\DataAcessLayer.deps.json
+D:\OLO\OLO_DISCOSSION\Entities\bin\Debug\net5.0\DataAcessLayer.runtimeconfig.json
+D:\OLO\OLO_DISCOSSION\Entities\bin\Debug\net5.0\DataAcessLayer.runtimeconfig.dev.json
+D:\OLO\OLO_DISCOSSION\Entities\bin\Debug\net5.0\DataAcessLayer.dll
+D:\OLO\OLO_DISCOSSION\Entities\bin\Debug\net5.0\ref\DataAcessLayer.dll
+D:\OLO\OLO_DISCOSSION\Entities\bin\Debug\net5.0\DataAcessLayer.pdb
+D:\OLO\OLO_DISCOSSION\Entities\obj\Debug\net5.0\DataAcessLayer.csproj.AssemblyReference.cache
+D:\OLO\OLO_DISCOSSION\Entities\obj\Debug\net5.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\OLO\OLO_DISCOSSION\Entities\obj\Debug\net5.0\DataAcessLayer.AssemblyInfoInputs.cache
+D:\OLO\OLO_DISCOSSION\Entities\obj\Debug\net5.0\DataAcessLayer.AssemblyInfo.cs
+D:\OLO\OLO_DISCOSSION\Entities\obj\Debug\net5.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+D:\OLO\OLO_DISCOSSION\Entities\obj\Debug\net5.0\DataAcessLayer.dll
+D:\OLO\OLO_DISCOSSION\Entities\obj\Debug\net5.0\ref\DataAcessLayer.dll
+D:\OLO\OLO_DISCOSSION\Entities\obj\Debug\net5.0\DataAcessLayer.pdb
+D:\OLO\OLO_DISCOSSION\Entities\obj\Debug\net5.0\DataAcessLayer.genruntimeconfig.cache

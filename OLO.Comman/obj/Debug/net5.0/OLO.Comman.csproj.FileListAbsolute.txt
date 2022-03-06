@@ -1,0 +1,11 @@
+D:\OLO\OLO_DISCOSSION\OLO.Comman\bin\Debug\net5.0\OLO.Comman.deps.json
+D:\OLO\OLO_DISCOSSION\OLO.Comman\bin\Debug\net5.0\OLO.Comman.dll
+D:\OLO\OLO_DISCOSSION\OLO.Comman\bin\Debug\net5.0\ref\OLO.Comman.dll
+D:\OLO\OLO_DISCOSSION\OLO.Comman\bin\Debug\net5.0\OLO.Comman.pdb
+D:\OLO\OLO_DISCOSSION\OLO.Comman\obj\Debug\net5.0\OLO.Comman.GeneratedMSBuildEditorConfig.editorconfig
+D:\OLO\OLO_DISCOSSION\OLO.Comman\obj\Debug\net5.0\OLO.Comman.AssemblyInfoInputs.cache
+D:\OLO\OLO_DISCOSSION\OLO.Comman\obj\Debug\net5.0\OLO.Comman.AssemblyInfo.cs
+D:\OLO\OLO_DISCOSSION\OLO.Comman\obj\Debug\net5.0\OLO.Comman.csproj.CoreCompileInputs.cache
+D:\OLO\OLO_DISCOSSION\OLO.Comman\obj\Debug\net5.0\OLO.Comman.dll
+D:\OLO\OLO_DISCOSSION\OLO.Comman\obj\Debug\net5.0\ref\OLO.Comman.dll
+D:\OLO\OLO_DISCOSSION\OLO.Comman\obj\Debug\net5.0\OLO.Comman.pdb
